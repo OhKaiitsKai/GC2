@@ -1,0 +1,473 @@
+newmtl CocinaSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Computadora1:cgaxis_models_118_25_12
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl Computadora1:cgaxis_models_118_25_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl ComputadoraSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 50.50
+newmtl ComputadoraSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 50.50
+newmtl Escurridor1:cgaxis_models_118_25_22
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl EscurridorSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 50.50
+newmtl Estanterias:lambert22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_23_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Estanterias:lambert22_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_23_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Exhibidor1:lambert23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_12_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl LamparaSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 50.50
+newmtl Lamparas:cgaxis_models_118_25_25
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl Lavabo1:cgaxis_models_118_25_26
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl Lavabo1:cgaxis_models_118_25_28
+illum 4
+Kd 0.10 0.10 0.10
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 775.24
+newmtl LavaboSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 50.50
+newmtl LavaboSG1
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 84.14
+newmtl Licuadoras1:blinn1
+illum 4
+Kd 1.00 0.72 0.08
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 56.81
+newmtl Licuadoras1:blinn2
+illum 4
+Kd 1.00 0.10 0.10
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 56.81
+newmtl Licuadoras1:blinn5
+illum 4
+Kd 0.08 0.47 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 56.81
+newmtl Licuadoras1:cgaxis_models_118_25_28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl Licuadoras1:cgaxis_models_118_25_30
+illum 4
+Kd 0.21 0.53 0.53
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 775.24
+newmtl Licuadoras1:cgaxis_models_118_25_35
+illum 4
+Kd 0.10 0.10 0.10
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 775.24
+newmtl LicuadorasSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 50.50
+newmtl LicuadorasSG1
+illum 4
+Kd 1.00 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.05 0.05
+Ns 4.31
+newmtl LicuadorasSG2
+illum 4
+Kd 0.21 0.53 0.53
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.26 0.26
+Ns 84.14
+newmtl LicuadorasSG4
+illum 4
+Kd 1.00 0.72 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.36 0.04
+Ns 4.31
+newmtl LicuadorasSG5
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 84.14
+newmtl LicuadorasSG7
+illum 4
+Kd 0.08 0.47 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.24 0.04
+Ns 4.31
+newmtl Mueble_1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Muebles:lambert20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_12_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Muebles:lambert21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_18_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Museo:lambert1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Platos_del_escurridorSG
+illum 4
+Kd 0.36 0.36 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.18 0.18 0.18
+Ns 50.50
+newmtl Platos_y_tazasSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 50.50
+newmtl Platos_y_tazasSG1
+illum 4
+Kd 0.36 0.36 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.18 0.18 0.18
+Ns 50.50
+newmtl Platos_y_tazasSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 50.50
+newmtl Platos_y_tazasSG3
+illum 4
+Kd 0.15 0.13 0.48
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.07 0.24
+Ns 50.50
+newmtl Puerta1:cgaxis_models_118_25_43
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl Puerta1:cgaxis_models_118_25_45
+illum 4
+Kd 0.10 0.10 0.10
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 775.24
+newmtl PuertaSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 50.50
+newmtl PuertaSG1
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 84.14
+newmtl Puesto1:lambert2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_12_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Puesto1:lambert3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_23_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Puesto1:lambert4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_23_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl Puesto1:lambert8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_21_Base_color.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl PuestoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl PuestoSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl PuestoSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl PuestoSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Utencilios_1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_12_Base_color.png
+Ni 1.00
+newmtl Utensilios1:cgaxis_models_118_25_16
+illum 4
+Kd 0.10 0.10 0.10
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 775.24
+newmtl Utensilios3:cgaxis_models_118_25_48
+illum 4
+Kd 0.10 0.10 0.10
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 775.24
+newmtl Utensilios3:cgaxis_models_118_25_50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_16.jpg
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 288.00
+newmtl Utensilios3:cgaxis_models_118_25_52
+illum 4
+Kd 0.36 0.36 0.36
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 1.00 1.00 1.00
+Ns 472.51
+newmtl Utensilios_3SG
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 84.14
+newmtl Utensilios_3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 30.00
+newmtl Utensilios_3SG2
+illum 4
+Kd 0.36 0.36 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.18 0.18 0.18
+Ns 50.50
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_23_Base_color.png
+Ni 1.00
+newmtl lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_118_25_12_Base_color.png
+Ni 1.00
